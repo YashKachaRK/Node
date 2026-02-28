@@ -1,0 +1,11 @@
+Core Page :- 
+  http
+
+at a time two server also creat its is allowed  
+
+types of module :-
+  core module 
+  third party
+  custom
+
+npm i 
